@@ -1,2 +1,6 @@
 # hello-world
-First time for repository
+
+Hi guys, I'm Nyein Kyaw. I want to learn IT from basic to professional. But I am 
+unable to pay more money.
+
+Thank you, guys. That't all.
